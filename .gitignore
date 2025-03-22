@@ -1,0 +1,9 @@
+# ide
+.idea
+
+# package
+node_modules
+*lock.json
+
+# env
+.env*
