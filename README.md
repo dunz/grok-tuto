@@ -1,4 +1,4 @@
-# Install
+# Install_
 ## 파이썬 패키지 설치
 - pygame
 - dotenv
